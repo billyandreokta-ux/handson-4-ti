@@ -30,7 +30,7 @@ public class ElseIfStatementPractice {
             System.out.println("B grade");
         } else if (score >= 70) {
             System.out.println("C grade");
-        } else {
+        } else{
             System.out.println("F grade");
         }
 

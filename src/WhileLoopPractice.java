@@ -16,7 +16,7 @@ public class WhileLoopPractice {
     public static void main(String[] args) {
         System.out.println("=== WHILE LOOP EXERCISES ===\n");
 
-        // TODO 1: Count from 1 to 10
+        // TODO 1: Count fromm 1 to 10
         // Write a while loop to print numbers 1 to 10
         System.out.println("TODO 1: Count 1 to 10");
         int count = 1;

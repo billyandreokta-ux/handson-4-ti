@@ -132,5 +132,4 @@ public class IfStatementPractice {
  * !    (NOT)
  *
  * STRING COMPARISON:
- * Use .equals() method: string1.equals(string2)
-  */
+ * Use .equals() method: string1.equals(string2)*/

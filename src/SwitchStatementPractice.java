@@ -34,7 +34,6 @@ public class SwitchStatementPractice {
             default: System.out.println("Invalid day");
         }
 
-
         // TODO 2: Grade to GPA
         // Write a switch statement for letter grades:
         // 'A': "4.0 GPA", 'B': "3.0 GPA", 'C': "2.0 GPA"

@@ -27,7 +27,6 @@ public class ElseStatementPractice {
             System.out.println("Minor");
         }
 
-
         // TODO 2: Temperature Check
         // Write if-else to check if temperature > 25
         // Print "Hot weather" if true, "Cool weather" if false
@@ -38,7 +37,6 @@ public class ElseStatementPractice {
         } else {
             System.out.println("Cool weather");
         }
-
 
         // TODO 3: Password Validation
         // Write if-else to check if password length >= 8
@@ -74,8 +72,7 @@ public class ElseStatementPractice {
         } else {
             System.out.println("Fail");
         }
-
-
+            
         // TODO 6: Array Size Check
         // Write if-else to check if array length > 5
         // Print "Large array" if true, "Small array" if false

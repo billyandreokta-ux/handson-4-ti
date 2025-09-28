@@ -23,7 +23,7 @@ public class TernaryOperatorPractice {
         System.out.println("Age status: " + ageStatus);
 
 
-        // TODO 2: Number Sign
+        // TODO 2: Number Signn
         // Use ternary operator to assign "Positive" or "Non-positive" based on number > 0
         int number = -5;
         String numberSign =(number > 0) ? "Positive" : "Negative"; // Complete this line
